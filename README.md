@@ -10,6 +10,10 @@ This project generates JSONL training data from images, with a simple frontend U
 
 ## Demo
 
+
+https://github.com/user-attachments/assets/d7343b42-9321-4b61-b12d-c236c9ec3f28
+
+
 <!-- Add demo content or screenshots here if available -->
 
 ## Quick Start
