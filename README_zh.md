@@ -12,6 +12,10 @@
 
 
 
+https://github.com/user-attachments/assets/1eefe07b-57fc-4b8e-808d-c337ccae94a2
+
+
+
 ## 🚀 使用指南
 
 ### 脚本一键启动
